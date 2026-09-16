@@ -11,8 +11,10 @@ I help **foreign brand owners, cross-border e-commerce sellers and overseas IP l
 | Repository | What it is |
 |---|---|
 | **[china-trademark-toolkit](https://github.com/fangwenhe/china-trademark-toolkit)** | Free toolkit to register & protect a **trademark in China (CNIPA)**: first-to-file guide, 45 Nice classes (EN–中文), official fees & timeline, document templates, refusal/opposition response, and a browser risk self-check. |
+| **[awesome-china-ip](https://github.com/fangwenhe/awesome-china-ip)** | The curated **China IP hub**: official portals, search tools, fee schedules, enforcement routes, cross-border seller IP and case lessons — for foreign brands, creators and developers. |
+| **[china-copyright-registration](https://github.com/fangwenhe/china-copyright-registration)** | Bilingual guide to register **works & software copyright in China** as a foreign creator: materials, fees, timeline, FAQ (incl. why social-media posts are weak evidence vs a certificate). |
 
-> More China-IP repositories are on the way (copyright registration, platform IP enforcement for Tmall/Douyin/Pinduoduo, Madrid China-phase, and an "awesome China IP" index). Follow to stay updated.
+> More China-IP repositories are on the way (platform IP enforcement for Tmall/Douyin/Pinduoduo, Madrid China-phase, CNIPA fee dataset, China company registration for foreigners). Follow to stay updated.
 
 ### ⚖️ Areas I work on
 
