@@ -29,7 +29,7 @@ China is **first-to-file**, rights are territorial, and foreign applicants must 
 
 ### 📬 Get in touch
 
-- 🌐 Website: **[fangwenhe.github.io](https://fangwenhe.github.io)** (custom domain huaqingip.com coming)
+- 🌐 Website: **[huaqingip.com](https://huaqingip.com)**
 - ✉️ Email: **hello@huaqingip.com**
 - 💬 Quick inquiry: **[open a GitHub issue](https://github.com/fangwenhe/china-trademark-toolkit/issues/new)**
 - 📅 Book a free 30-min consultation: **[calendly.com/huaqingip/30min](https://calendly.com/huaqingip/30min)**
