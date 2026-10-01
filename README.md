@@ -14,8 +14,13 @@ I help **foreign brand owners, cross-border e-commerce sellers and overseas IP l
 | **[awesome-china-ip](https://github.com/fangwenhe/awesome-china-ip)** | The curated **China IP hub**: official portals, search tools, fee schedules, enforcement routes, cross-border seller IP and case lessons — for foreign brands, creators and developers. |
 | **[china-copyright-registration](https://github.com/fangwenhe/china-copyright-registration)** | Bilingual guide to register **works & software copyright in China** as a foreign creator: materials, fees, timeline, FAQ (incl. why social-media posts are weak evidence vs a certificate). |
 | **[china-ip-enforcement](https://github.com/fangwenhe/china-ip-enforcement)** | Playbook to **oppose squatters, invalidate bad marks, takedown counterfeits** and pass **Amazon Brand Registry China**: platform matrix, customs recordal, fees, checklists. |
+| **[china-ip-tools](https://github.com/fangwenhe/china-ip-tools)** | 18 free browser tools for the **China IP workflow** — fee calculators, Nice-class picker, timeline/deadline trackers, risk & refusal checks, copyright term/fee calculator. Live at [huaqingip.com/china-ip-tools](https://huaqingip.com/china-ip-tools/). |
+| **[zh-china-trademark](https://github.com/fangwenhe/zh-china-trademark)** | Chinese-language (中文) tools for Chinese-speaking & cross-border sellers: fee calculator, 45-class picker, timeline/deadline and risk self-check. |
+| **[amazon-brand-registry-china](https://github.com/fangwenhe/amazon-brand-registry-china)** | **Amazon Brand Registry in China** guide: which CNIPA marks are accepted, why enrollments are rejected (brand-name mismatch), plus an exact-match checker. |
+| **[madrid-china](https://github.com/fangwenhe/madrid-china)** | **Madrid Protocol designation of China**: CNIPA individual fees (CHF 220 first class / 110 each), the process, provisional refusals answered in Chinese, plus a Madrid-vs-national route chooser. |
+| **[china-copyright-tools](https://github.com/fangwenhe/china-copyright-tools)** | Copyright registration tools: **software copyright (软著) materials checklist** with source-code deposit rules, and an **AI-generated work copyright test** for the Chinese human-contribution standard. |
 
-> More China-IP repositories are on the way (platform IP enforcement for Tmall/Douyin/Pinduoduo, Madrid China-phase, CNIPA fee dataset, China company registration for foreigners). Follow to stay updated.
+> Also: a step-by-step guide on [how to register a trademark in China](https://huaqingip.com/register-trademark-china/). Next repositories in preparation: a CNIPA fees & timeline dataset, and China company registration for foreigners. Follow to stay updated.
 
 ### ⚖️ Areas I work on
 
